@@ -1,0 +1,5 @@
+{
+    "RPC_ENDPOINT": "https://sei-rpc.polkachu.com/",
+    "DEFAULT_RECIPIENT": "",
+    "GAS_PRICE": "0.02usei"
+}

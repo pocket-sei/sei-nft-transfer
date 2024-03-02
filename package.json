@@ -1,0 +1,21 @@
+{
+    "name": "sei-nft-transfer",
+    "version": "1.0.0",
+    "description": "A small, lightweight CLI tool to transfer SEI NFTs",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "pocket.sei",
+    "license": "MIT",
+    "dependencies": {
+        "@cosmjs/amino": "^0.32.2",
+        "@cosmjs/cosmwasm-stargate": "^0.32.2",
+        "@cosmjs/encoding": "^0.32.2",
+        "@cosmjs/stargate": "^0.32.2",
+        "chalk": "^5.3.0",
+        "config": "^3.3.11",
+        "inquirer": "^9.2.15"
+    }
+}
